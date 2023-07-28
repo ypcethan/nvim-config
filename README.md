@@ -7,4 +7,5 @@
 ## Steps
 * Clone the repo,rename it to `nvim`
 * Place it under `~/.config/`
-* Run ":PackerSync"
+* Start neovim (would probably see a lot of errors, skip them for now)
+* Run ":PackerSync" to install the plugins.
